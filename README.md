@@ -27,7 +27,7 @@ A Python application that tracks the International Space Station (ISS) and notif
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/momed-ali01/ISS_overhead.git
+git clone https://github.com/<username>/ISS_overhead.git
 cd ISS_overhead
 ```
 
@@ -86,9 +86,3 @@ Feel free to submit issues and enhancement requests!
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Open Notify API for ISS position data
-- Sunrise-Sunset API for day/night information
-- Python's built-in libraries for email functionality
